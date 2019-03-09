@@ -10,3 +10,4 @@ keymaoshop-parent：父工程，打包方式pom，管理jar包的版本号。
 		|--keymaoshop-manager-service：打包方式：jar
 		|--keymaoshop-manager-web：表现层工程。打包方式war
 
+sdf
