@@ -7,11 +7,14 @@
     <groupId>com.keymao</groupId>
     <artifactId>keymaoshop-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <modules>
+<!--    <modules>
         <module>../keymaoshop-portalWeb</module>
         <module>../keymaoshop-search</module>
         <module>../keymaoshop-common</module>
-    </modules>
+		<module>../keymaoshop-content</module>
+		<module>../keymaoshop-manager</module>
+		<module>../keymaoshop-web</module>
+    </modules>-->
 
     <packaging>pom</packaging>
 
